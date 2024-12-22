@@ -9,8 +9,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('download.jpeg');
-    background-size: contain; /* Adjust size to prevent zooming */
+    background-image: url('background.jpeg');
+    background-size: fill; /* Adjust size to prevent zooming */
     background-repeat: no-repeat; /* Avoid repeating the image */
     background-position: center; /* Center the image */
 }
